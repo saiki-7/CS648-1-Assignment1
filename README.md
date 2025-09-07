@@ -1,13 +1,28 @@
-# Assignment1
-# Welcome to Vecta Corporation's Digital Presence 
+# Vecta Corporation Web Page  
+**CS648 – Assignment 1**  
 
-## Overview
+This project is a simple HTML web page created for CS648 Assignment 1. It introduces **Vecta Corporation**, its services, client testimonials, and contact details.
 
-This simple web page is the digital front door to **Vecta Corporation**, a pioneer in delivering 24/7, 365-day turnkey vSolutions for agile eBusiness growth. 
+---
 
-## The Tech Stack Used to create this static website is as follows : 
-1. HTML
-2. Github
-3. VS Code 
+## Project Details
+- **Welcome Section:** Introduction to Vecta Corporation  
+- **Solutions:** vProspect 2.0, vConvert 2.0, vRetain 1.0  
+- **Testimonials:** Feedback from satisfied clients  
+- **Contact Info:** How to reach Vecta Corporation  
+- **Team:** Key members of the management team  
 
- 
+---
+
+## Purpose
+- Practice creating a GitHub repository  
+- Use HTML5 to build a basic webpage  
+- Learn Markdown formatting for documentation  
+- Push code to GitHub using GitHub Desktop  
+
+---
+
+## How to View
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/saiki-7/CS648-1-Assignment1.git
